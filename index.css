@@ -5,15 +5,30 @@ header{
 }
 
 div{
-    width: 100%;
-    height: 180px;
-    font-size: 100px;
+    height: 150px;
+    font-size: 50px;
     color: white;
 }
 /* Header */
 
 /* Main */
+#titolo{
+    font-size: 50px;
+    margin: 0%;
+}
+#span-colorato{
+    color: rgb(68, 163, 207);
+}
+p{
+    margin: 0px;
+}
+#margin{
+    margin-bottom: 20px;
+}
+
 
 /* Main */
+
+
 /* Footer */
 /* Footer */
