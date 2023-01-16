@@ -1,34 +1,18 @@
-/* Header */
+body{
+    width: 1500px;
+}
+       /* Header */
 header{
+    background-image: url(img/pattern.png);
     background-color: rgb(68, 163, 207);   
-    background-image: url(img/pattern.png)
+    background-size: contain;
+    background-repeat: repeat;
+    height: 100px;
 }
 
 div{
-    height: 150px;
-    font-size: 50px;
+    
     color: white;
+    font-family: fantasy; font-size: 30px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15px;  
+    width: 100px; 
 }
-/* Header */
-
-/* Main */
-#titolo{
-    font-size: 50px;
-    margin: 0%;
-}
-#span-colorato{
-    color: rgb(68, 163, 207);
-}
-p{
-    margin: 0px;
-}
-#margin{
-    margin-bottom: 20px;
-}
-
-
-/* Main */
-
-
-/* Footer */
-/* Footer */
