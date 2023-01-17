@@ -1,0 +1,64 @@
+header{
+    background-image: url(/img/pattern.png);
+    background-color: rgb(68, 163, 207);      
+    height: 100px;
+    background-size: 30%;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.logo{
+    height: 50px;
+    margin-top: 50px;  
+}
+.author{
+    color: grey;
+    font-size: 12px;
+}
+.author-name{
+    color: rgb(118, 206, 247);
+    font-size: 16px;
+}
+.date{
+    color: grey;
+    font-size: 10px;
+}
+.tim-description{
+    font-size: 12px;
+}
+.photo{
+    margin: 20px 0px;
+}
+
+.table{
+    margin: 20px 0px 20px 15px;
+    width: 100%;
+    
+}
+.table thead{
+    background-color: blue;
+    text-align: left;
+    color: white;
+}
+.unread{
+    background-color: skyblue;
+}
+footer h2{
+    color: silver;
+    font: size 15px;
+    font-weight: bold;
+}
+#image{
+    color: white;
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+}
+#image2{
+    color: white;
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+}
+
